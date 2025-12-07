@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Love Me Like This",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T10:42:34.536715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/01_Love_Me_Like_This_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/02_Love_Me_Like_This_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "love me like this",
+      "artist": "nmixx",
+      "has_synced": true,
+      "path": "select/03_love_me_like_this_nmixx.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/04_Love_Me_Like_This_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/05_Love_Me_Like_This_NMIXX.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/06_Love_Me_Like_This_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "Heavy D",
+      "has_synced": false,
+      "path": "select/07_Love_Me_Like_This_Heavy_D.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "Amari",
+      "has_synced": true,
+      "path": "select/08_Love_Me_Like_This_Amari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "Tinie Tempah",
+      "has_synced": true,
+      "path": "select/09_Love_Me_Like_This_Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Me Like This",
+      "artist": "Nmixx",
+      "has_synced": true,
+      "path": "select/10_Love_Me_Like_This_Nmixx.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Me Like This (feat. Maia Wright)",
+      "artist": "Tinie",
+      "has_synced": true,
+      "path": "select/11_Love_Me_Like_This_(feat._Maia_Wright)_Tinie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Me Like This",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Me_Like_This_NMIXX.txt"
+    }
+  ]
+}
