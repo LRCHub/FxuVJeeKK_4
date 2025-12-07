@@ -1,0 +1,84 @@
+# NMIXX – Love Me Like This
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.45] Love me like this, love me like that
+[00:03.11] Love me like this and I love you right back
+[00:24.61] 
+[00:05.43] 뛰는 심장 소릴 따라가
+[00:07.71] 커지는 울림, oh my, oh my God
+[00:10.47] Oh yeah, let me hear you say "Yeah" (uh-uh-uh)
+[00:15.39] 숨겨놨던 맘속 deep blue sea
+[00:17.90] 꺼내 펼쳐봐 느껴지는 feels
+[00:20.29] Oh yeah, don't run away, yeah (now, now)
+[00:40.29] 
+[00:25.32] 철로 만든 heart, 예쁜 꽃을 피워봐
+[00:27.63] 사막 속에 비를 내려봐 (uh-uh)
+[00:30.08] If you wanna be my lover, 닫힌 맘을 다 깨뜨려
+[00:32.75] If you wanna, wanna, wanna-wanna-wanna
+[00:51.75] 
+[00:35.04] Show me your way
+[00:36.50] 어느 틈에 자라난 이끌림
+[00:41.39] 점을 이어, oh baby
+[00:45.62] 맘속 fireworks (woo), 외쳐 higher hopes
+[00:50.58] 눈을 맞춰, it's so easy, you just gotta
+[01:08.08] 
+[00:54.85] Love me like this, love me like that
+[00:57.42] Love me like this, love me like that
+[00:59.81] Love me like this, love me like that
+[01:02.32] Love me like this and I love you right back (right back)
+[01:30.32] 
+[01:05.09] Love me like this, love me like that
+[01:07.27] Love me like this, love me like that
+[01:09.65] Love me like this, love me like that
+[01:12.04] Love me like this and I love you right back
+[01:33.54] 
+[01:15.01] Oh, 큰 파도가 시작될 걸 (ride now)
+[01:18.75] Buckle up, ready, set, go (let's go!)
+[01:21.10] 이 감정의 폭을 explore
+[01:29.10] 
+[01:24.38] 조금 더 거침없이, 빠져 이 fever
+[01:26.76] 그 순간 가슴속에, 넘쳐난 flower
+[01:29.48] 이미 움트고 있던 숨
+[01:31.84] 고장 난 네 맘속의 bloom, oh
+[01:41.84] 
+[01:34.28] Show me your way
+[01:35.82] 어느 틈에 연결된 piece of love (oh-oh)
+[01:40.65] 선을 따라가 baby
+[01:44.76] 번진 fireworks, 펼친 higher hopes
+[01:49.61] 손을 뻗어, it's so easy, you just gotta
+[02:07.11] 
+[01:54.45] Love me like this (hey), love me like that (hey)
+[01:56.85] Love me like this, love me like that (love me)
+[01:59.33] Love me like this, love me like that (yeah-yeah-yeah-yeah)
+[02:01.78] Love me like this and I love you right back (and I'll love you right back)
+[02:38.78] 
+[02:04.34] Love me like this (yuh), love me like that (woo)
+[02:06.69] Love me like this (oh, love), love me like that
+[02:09.32] Love me like this (love me), love me like that
+[02:11.64] Love me like this and I love you right back (yeah)
+[02:36.64] 
+[02:14.48] Can you see the paradise?
+[02:16.95] 감각들을 깨워봐
+[02:18.83] 끝내 찾은 missing piece
+[02:21.13] 심장 속을 밝힌 peace
+[02:23.68] 나를 향해 켜진 love
+[02:26.05] 결국 너를 향할 love
+[02:28.45] 너와 내 꿈이 이어져 커져갈 time (love me like this, love me like that)
+[02:57.95] 
+[02:36.48] Love me like this (hey), love me like that
+[02:38.82] Love me like this, love me like that
+[02:41.41] Love me like this, love me like that
+[02:43.81] Love me like this and I love you right back
+[03:05.31] 
+[02:46.34] Love me like this (yo), love me like that (ayo)
+[02:48.96] Love me like this (oh), love me like that (oh)
+[02:51.42] Love me like this (love me), love me like that (love me)
+[02:53.72] Love me like this and I love you right back
+[03:15.22] 
+[02:56.23] Love me like this, love me like that
+[02:58.51] Love me like this, love me like that
+[03:00.97] Love me like this, love me like that
+[03:03.32] Love me like this and I love you right back
+```
